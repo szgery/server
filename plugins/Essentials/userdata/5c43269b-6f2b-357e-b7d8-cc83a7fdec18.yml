@@ -19,3 +19,4 @@ logoutlocation:
   yaw: -275.1245
   pitch: 51.300102
 teleportenabled: false
+teleportauto: false
