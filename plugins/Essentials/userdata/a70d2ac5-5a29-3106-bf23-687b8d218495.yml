@@ -2,6 +2,7 @@ lastAccountName: Szergely
 timestamps:
   login: 1606042728232
   logout: 1605999992399
+  lastteleport: 1606045412584
 ipAddress: 86.101.131.32
 lastlocation:
   world: world
