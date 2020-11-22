@@ -1,0 +1,19 @@
+2020-11-22 11:05:41,565 [ForkJoinPool.commonPool-worker-1]: [Towny] Cleaning up old backups...
+2020-11-22 11:05:41,566 [ForkJoinPool.commonPool-worker-1]: [Towny] Successfully cleaned backups.
+2020-11-22 11:05:41,574 [ForkJoinPool.commonPool-worker-1]: [Towny] Making backup...
+2020-11-22 11:05:41,809 [ForkJoinPool.commonPool-worker-1]: [Towny] Towny flatfiles and settings successfully backed up.
+2020-11-22 11:18:12,282 [Server thread]: [Towny] Disabling Towny v0.96.3.0
+2020-11-22 11:18:15,668 [Server thread]: [Towny] Loading Towny v0.96.3.0
+2020-11-22 11:18:18,128 [Server thread]: [Towny] Enabling Towny v0.96.3.0
+2020-11-22 11:18:18,478 [ForkJoinPool.commonPool-worker-3]: [Towny] Cleaning up old backups...
+2020-11-22 11:18:18,479 [ForkJoinPool.commonPool-worker-3]: [Towny] Successfully cleaned backups.
+2020-11-22 11:18:18,508 [ForkJoinPool.commonPool-worker-3]: [Towny] Making backup...
+2020-11-22 11:18:18,701 [ForkJoinPool.commonPool-worker-3]: [Towny] Towny flatfiles and settings successfully backed up.
+2020-11-22 12:00:02,241 [Craft Scheduler Thread - 20]: [Global Message] A new day is here! Taxes and rent have been collected
+2020-11-22 12:00:02,247 [Craft Scheduler Thread - 20]: [Town Msg] teszt: Your town could not pay the daily upkeep of $10 and has disbanded.
+2020-11-22 12:00:02,376 [Craft Scheduler Thread - 20]: [Global Message] teszt couldn't afford to remain a town.
+2020-11-22 12:00:02,377 [ForkJoinPool.commonPool-worker-1]: [Towny] Cleaning up old backups...
+2020-11-22 12:00:02,378 [ForkJoinPool.commonPool-worker-1]: [Towny] Successfully cleaned backups.
+2020-11-22 12:00:02,378 [Craft Scheduler Thread - 20]: [Towny] Towny DailyTimerTask took 137ms to process.
+2020-11-22 12:00:02,378 [ForkJoinPool.commonPool-worker-1]: [Towny] Making backup...
+2020-11-22 12:00:02,409 [ForkJoinPool.commonPool-worker-1]: [Towny] Towny flatfiles and settings successfully backed up.

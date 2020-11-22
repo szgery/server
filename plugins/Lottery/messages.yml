@@ -1,0 +1,62 @@
+Prefix: '&6[&cLutri&6] '
+NoPermission: '&4Sajnálom, de ehhez nincs jogod!'
+Buy: '&8Vásároltál &6%tickets% szelvényt!'
+GlobalBuy: '&6%player% &8most vett &6%tickets% &8szelvényt. Próbáld ki te is a szerencséd!'
+NoMoney: '&6%tickets% &8szelvény vásárlásához még &6%money% &8pengőre van szükséged.'
+TicketLimit: '&8Nem tudsz több szelvényt vásárolni!'
+Cooldown: '&8Ne olyan sietősen! A következő vásárlásig %time% másodpercet kell várnod.'
+Win: '&aGartulálunk! Ezennel kihírdetjük a mai lutri nyertest: &6%player%, &aakinek
+  &6%money% &aüti a markát'
+NoWinnerText: '&cNobody'
+NoPlayers: '&8Ma senki se vásárolt szelvényt'
+FewPlayers: '&8Nem volt elég szelvény a kalapban'
+NotOnline: '&c&lThe Winner %player% is not online and could not win.'
+LoginWinMessage: '&aGratulálunk! A legutóbb vásárolt szelvényeddel nyertél! &6%money%
+  (%moneynotax%) &apengővel gazdagodtál!'
+BlockedWorld: '&c&lThe Winner %player% is in a Blocked World and could not win.'
+BackToPot: '&6&lNobody won! &c&l%newpot% &6&lwas added back to the pot!'
+Reminder: '&8A következő sorsolás &6%draw% &8perc múlva lesz. A kalapban &6%pot% &8szelvény
+  van.'
+ToggleOFFBuyMessage: '&8Mostantúl nem fogsz értesülni más játékosok vásárlásáról!'
+ToggleONBuyMessage: '&8Mostantól újra értesülni fogsz mások vásárlásáról!'
+ToggleOFFReminderMessage: '&8Nem fogsz több emlékeztetőt kapni!'
+ToggleONReminderMessage: '&8Újra láthatóak az emlékeztetők!'
+TimeTillDrawFormat: '&c%h%&8ó &c%m%&8p &c%s%&8m'
+WaitingForDraw: '&cWaiting for current Draw..'
+Status:
+- '       &b&lLutri'
+- ' '
+- '&aSzelvényeid: &c%ptickets%'
+- ' '
+- '&aÖsszes szelvény: &c%gtickets%'
+- ' '
+- '&aA kalapban: &c%pot%'
+- ' '
+- '&aSorsolás: &c%draw%'
+- ' '
+- '&aUtolsó nyertes: &c%winner%'
+HelpPage:
+  Users:
+  - §7===================================
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery buy (Number)
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery status
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery gui
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery toggleremindmsg
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery togglebuymsg
+  - §8[§bLottery§8]
+  - §7===================================
+  Admins:
+  - §7===================================
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery draw
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery reload
+  - §8[§bLottery§8]
+  - §8[§bLottery§8] §e§l§o/Lottery addpot <Number>
+  - §8[§bLottery§8]
+  - §7===================================

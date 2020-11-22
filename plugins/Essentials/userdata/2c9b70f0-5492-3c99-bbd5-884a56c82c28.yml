@@ -1,0 +1,21 @@
+lastAccountName: szeman_01
+timestamps:
+  login: 1606040694358
+  lastteleport: 1606040863692
+  logout: 1606042054133
+ipAddress: 81.182.52.232
+lastlocation:
+  world: world
+  x: -134.36109885942392
+  y: 53.0
+  z: -114.31117588785939
+  yaw: -5.369637
+  pitch: 33.128433
+money: '1000514.0'
+logoutlocation:
+  world: world
+  x: -192.0
+  y: 77.0
+  z: -64.0
+  yaw: 9.745379
+  pitch: 11.163422

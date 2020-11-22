@@ -1,0 +1,14 @@
+uuid=a70d2ac5-5a29-3106-bf23-687b8d218495
+lastOnline=1606042728230
+registered=1605997560136
+isNPC=false
+isJailed=false
+JailSpawn=0
+JailDays=0
+JailTown=
+title=
+surname=
+friends=
+
+protectionStatus=residentBuild,residentDestroy,residentSwitch,residentItemUse
+metadata=
